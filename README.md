@@ -17,7 +17,8 @@ How to use it:
 5- Enjoy !!
 
 
-The script will automatically download the encoder.jar from :https://github.com/hak5darren/USB-Rubber-Ducky/blob/master/Encoder/encoder.jar
+The script will automatically download the encoder.jar from :
+https://github.com/hak5darren/USB-Rubber-Ducky/blob/master/Encoder/encoder.jar
 Just make sure you have Java installed on your machine.
 
 Download the .py file from:
