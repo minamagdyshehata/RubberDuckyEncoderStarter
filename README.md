@@ -14,11 +14,13 @@ How to use it:
 
 3- type python RubberDuckyEncoderStarter.py then press Enter (or Return :):) ).
 
-5- Enjoy !!
+4- Enjoy !!
 
-OR You can Simply use the Run-Script as per your OS as follows:
+//OR// 
 
-**For Windows:
+You can Simply use the Run-Script as per your OS as follows:
+
+--For Windows:
 
 1- Download the .zip file from: https://github.com/minamagdyshehata/RubberDuckyEncoderStarter/archive/master.zip
 
@@ -26,7 +28,7 @@ OR You can Simply use the Run-Script as per your OS as follows:
 
 3- Open the RubberDuckyEncoderStarter-master Directory and Double-Click on "Run-WindowsScript.bat".
 
-**For  Linux and macOS:
+--For  Linux and macOS:
 
 1- Open Terminal.
 
