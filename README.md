@@ -4,7 +4,7 @@ It's everything you need to start encoding your USBRubberDucky Payloads ... Quac
 I recently got my USB Rubber Ducky and I was really interested in the command line java encoder.
 RubberDuckyEncoderStarter.py is everything you need to start encoding your USB Rubber Ducky Payloads. It makes using the command line Java Encoder by HAK5.org super easy.
 It works on both Python2 and Python3.
-It's also tested on Windows, Linux and macOS.
+It's also tested on Windows 10, Kali Linux and 10.12 Sierra macOS.
 
 How to use it:
 
@@ -47,6 +47,11 @@ You can Simply use the Run-Script as per your OS as follows:
 https://github.com/hak5darren/USB-Rubber-Ducky/blob/master/Encoder/encoder.jar
 
 **Just make sure you have Java installed on your machine.
+
+      To install Java on Linux type the following commands in the terminal:
+      sudo apt-get update
+      sudo apt-get upgrade
+      sudo apt-get install default-jre
 
 Download links:
 
