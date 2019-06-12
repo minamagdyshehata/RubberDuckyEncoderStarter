@@ -17,7 +17,7 @@ def CheckOSandDo(Function):
         if Function == "Clear":
             os.system("cls")
         elif Function == "DownloadJavaEncoder":
-            os.system("curl https://raw.githubusercontent.com/hak5darren/USB-Rubber-Ducky/master/Encoder/encoder.jar -o encoder.jar")
+            os.system("powershell (new-object System.Net.WebClient).DownloadFile('https://raw.githubusercontent.com/hak5darren/USB-Rubber-Ducky/master/Encoder/encoder.jar','encoder.jar')")
     elif System == "Linux":
         if Function == "Clear":
             os.system("clear")
